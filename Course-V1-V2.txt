@@ -1,26 +1,93 @@
 ----------------------------------------------------------------------------
 ----------------------------------------------------------------------------
+COURSES
+
+V1 V2 Youtube course
+https://www.youtube.com/watch?v=T2ilu53Kfjk&list=PLXmMHVdWuJnYV5Qadz4Hb_DQstPFYj2qs
+
+B1 B2 Youtube course
+https://www.youtube.com/watch?v=cNaTWV8ITjc&list=PLXmMHVdWuJnYDA0XC1_snmvl65Af73Foh
+
+----------------------------------------------------------------------------
+----------------------------------------------------------------------------
 APUNTES
 
 Noun : palabra que sirve para nombrar un material o un inmaterial.
+Pronoun : pronombres (yo, tu, el, etc...).
+Adjective : cualidad en el objeto o persona.
+Preposition : palabra para indicar relacion de lugar, direccion, movimiento o tiempo.
+    En español existen 23.
+
+//------------ Escribir --------
+- Lista de preposiciones (relacion de lugar, tiempo o direccion)
+/-------------------------------
 
 ----------------------------------------------------------------------------
 ----------------------------------------------------------------------------
 VIDEOS
 
-1. noun + is + noun ->> An ant is an insect
+1. Noun + Is + Noun -->> An ant is an insect.
 	a book
 	an animal
 - Exceptions
 	a university
 	an hour
 
-2. Plural noun + are + plural noun ->> Ants are insects
+2. Plural Noun + Are + Plural Noun -->> Ants are insects.
 	a city ->> cities
 	a country ->> countries
 - Exceptions
 	tray ->> trays
-	
+
+3. Pronoun + Be + Noun -->> You are a doctor.
+    be ->> means {am, is, are}
+- Singular
+    She is a nurse.
+- Plural
+    We are students
+- Sentences
+    Camila is my friend. She is pretty.
+    Johnny and Lucas are my partners. They are from Quilpue and Concon.
+- Short expression 
+    She is pretty. ->> She's pretty.
+    They are not here. ->> They aren't here.
+
+4. Be + Adjective -->> ... is small or black, etc.
+    noun + be + adjective.
+        My eyes are green.
+        Her hair is long.
+    pronoun + be + adjective
+        You are tired.
+        We are intelligent
+        She is beautiful
+        It is cute.
+5. Be + Location -->> You are in your house.
+- Location
+    here
+    there
+    inside
+    outside
+    over there : allí.
+    upstairs : piso superios (de arriba).
+    downstairs : piso inferios (de abajo).
+    downtown : centro de la ciudad.
+        downtown baby : bebe del centro.
+- Sentences
+    The children are upstairs.
+    They are outside.
+    We are downtown.
+
+    be + location + preposition + noun.
+    The books are on the desk.
+    He is at the bus stop : El esta en la parada de auto buses.
+
+    The dog is in the car (dentro).
+    The dog is on the car (encima, sobre).
+
+    The bridge is above the river. (sobre)
+    The river is below the bridge. (abajo)
+
+
 
 ----------------------------------------------------------------------------
 ----------------------------------------------------------------------------
@@ -28,3 +95,6 @@ DICTIONARY
 
 Vowels : vocales
 Tray : bandeja
+Above : sobre 
+Below : abajo
+Beside : Al lado de
